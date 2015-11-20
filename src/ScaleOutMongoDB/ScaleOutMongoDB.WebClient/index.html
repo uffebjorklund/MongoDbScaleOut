@@ -20,8 +20,8 @@
         ko.applyBindings(vm);
 
         var conn = new XSockets.WebSocket('ws://127.0.0.1:4503', ['monitor']);
-        var foo = conn.controller('monitor');
-        foo.on('temp', function (d) {
+        var m = conn.controller('monitor');
+        m.on('temp', function (d) {
             console.log(d);
             vm.m.unshift(d);
         });
