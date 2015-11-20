@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>MongoDB ScaleOut - 127.0.0.1:4503</title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <img src="http://xsocketswp.azurewebsites.net/wp-content/uploads/2015/08/xsockets_logo_black.png" alt="XSockets.NET" />
+    <h2>MongoDB ScaleOut - 127.0.0.1:4503</h2>
+    <div id="messages" data-bind="foreach:m">
+        <div data-bind="text:$data"></div>
+    </div>
+    <script src="Scripts/XSockets.latest.js"></script>
+    <script src="Scripts/knockout-3.3.0.js"></script>
+    <script>
+        var vm = {
+            m: ko.observableArray([])
+        };
+
+        ko.applyBindings(vm);
+
+        var conn = new XSockets.WebSocket('ws://127.0.0.1:4503', ['monitor']);
+        var foo = conn.controller('monitor');
+        foo.on('temp', function (d) {
+            console.log(d);
+            vm.m.unshift(d);
+        });
+    </script>
+</body>
+</html>

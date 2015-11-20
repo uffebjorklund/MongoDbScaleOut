@@ -1,0 +1,16 @@
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\ScaleOutMongoDB.ConsoleClient.exe.config
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\ScaleOutMongoDB.ConsoleClient.exe
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\ScaleOutMongoDB.ConsoleClient.pdb
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\XSockets.Client40.dll
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\obj\Debug\ScaleOutMongoDB.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\obj\Debug\ScaleOutMongoDB.ConsoleClient.exe
+C:\Users\uffe\Desktop\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\obj\Debug\ScaleOutMongoDB.ConsoleClient.pdb
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\ScaleOutMongoDB.ConsoleClient.exe.config
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\ScaleOutMongoDB.ConsoleClient.exe
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\ScaleOutMongoDB.ConsoleClient.pdb
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\bin\Debug\XSockets.Client40.dll
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\obj\Debug\ScaleOutMongoDB.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\obj\Debug\ScaleOutMongoDB.ConsoleClient.exe
+C:\Users\uffe\Documents\GitHub\MongoDbScaleOut\src\ScaleOutMongoDB\ScaleOutMongoDB.ConsoleClient\obj\Debug\ScaleOutMongoDB.ConsoleClient.pdb
